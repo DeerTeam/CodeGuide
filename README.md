@@ -1912,7 +1912,10 @@ src
    ​
 
 # 参考文档
-[Google Style Guide]: https://google.github.io/styleguide/
-[Airbnb JavaScript Style Guide]: https://github.com/airbnb/javascript
-[Code Guide by @AlloyTeam]: http://alloyteam.github.io/CodeGuide/
-[JavaScript Standard Style]: https://standardjs.com
+[Google Style Guide](https://google.github.io/styleguide/ )
+
+[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript )
+
+[Code Guide by @AlloyTeam](http://alloyteam.github.io/CodeGuide/ )
+
+[JavaScript Standard Style](JavaScript Standard Style )
